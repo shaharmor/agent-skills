@@ -1,0 +1,10 @@
+{
+  "name": "shaharmor",
+  "description": "Shahar's custom agent skills for Claude Code",
+  "version": "1.0.0",
+  "author": {
+    "name": "Shahar Mor"
+  },
+  "repository": "https://github.com/shaharmor/agent-skills",
+  "license": "MIT"
+}

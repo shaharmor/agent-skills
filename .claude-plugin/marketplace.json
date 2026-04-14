@@ -1,0 +1,28 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "shaharmor-agent-skills",
+  "owner": {
+    "name": "Shahar Mor",
+    "email": "shaharmor@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "Shahar's custom agent skills for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "shaharmor",
+      "source": "./",
+      "description": "Shahar's custom agent skills including ADO management",
+      "version": "1.0.0",
+      "author": {
+        "name": "Shahar Mor",
+        "url": "https://github.com/shaharmor"
+      },
+      "homepage": "https://github.com/shaharmor/agent-skills",
+      "repository": "https://github.com/shaharmor/agent-skills",
+      "license": "MIT",
+      "keywords": ["ado", "azure-devops", "management", "skills"],
+      "category": "productivity"
+    }
+  ]
+}
